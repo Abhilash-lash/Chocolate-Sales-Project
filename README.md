@@ -5,4 +5,4 @@ https://app.powerbi.com/view?r=eyJrIjoiYzUzNGI1N2MtZGJhMy00N2Y3LWJiNjQtNjdmYmM3N
 
 
 
-Chocolate sales Project - Analysis of 2 years of data for different products to analyse sales, shipments, Low Box Shipments, Top Salesmen etc using measures, graphs
+Chocolate sales Project - Analysis of 2 years of data for different products to analyse sales, shipments, Low Box Shipments, Top Salesmen etc using measures, graphs, time intelligence calculations.
